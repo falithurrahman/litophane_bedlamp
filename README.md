@@ -1,6 +1,6 @@
 ### Description
 
-This time i made a litophane bedlamp for my loved-one that just graduated. For you that don't know what litophane is, you can read the description [here](https://en.wikipedia.org/wiki/Lithophane). In short, litophane is an artwork that can only be seen clearly when we give back lit with a light source. It can be a lamp, LED or even candle. 
+This time i made a litophane bedlamp for my friend that just graduated. For you that don't know what litophane is, you can read the description [here](https://en.wikipedia.org/wiki/Lithophane). In short, litophane is an artwork that can only be seen clearly when we give back lit with a light source. It can be a lamp, LED or even candle. 
 
 #### 1. Designing
 Firstly, i made a CAD design in 2D with autoCAD and modelled in 3D using Inventor. You can see the 2D model at the picture below.
