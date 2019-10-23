@@ -4,6 +4,10 @@ This time i made a litophane bedlamp for my loved-one that just graduated. For y
 
 #### 1. Designing
 Firstly, i made a CAD design in 2D with autoCAD and modelled in 3D using Inventor. You can see the 2D model at the picture below.
+<p align="center">
+  <img  src="https://github.com/falithurrahman/litophane_bedlamp/blob/master/Design/step0.JPG">
+
+</p>
 
 After finished with 2D model, i designed the 3D model and assembled them. First i assembled the bottom part of the lamp.
 <p align="center">
@@ -44,5 +48,5 @@ Now i already have the STL file i want to print. Next step is to configure the S
 And the last step after i got all parts ready is to assemble them. I stick the litophane with the acrylic with glue. The light bulb is mounted at the center of the base and add the cable to power source. You can see the complete result at result folder of this repository.
 
 <p align="center">
-  <img  src="https://github.com/falithurrahman/litophane_bedlamp/blob/master/Step/5.PNG">
+  <img  src="https://github.com/falithurrahman/litophane_bedlamp/blob/master/Result/88363.jpg">
 </p>
