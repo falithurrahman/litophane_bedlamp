@@ -11,7 +11,7 @@ After finished with 2D model, i designed the 3D model and assembled them. First 
     <img  src="https://github.com/falithurrahman/litophane_bedlamp/blob/master/Design/step2.jpg">
 </p>
 
-Next, i combined it with top part and gave it a lamp.
+Next, i combined it with top part. I planned to make the base from acrylic which is cut by laser service. I also bought 5W AC warm light bulb as the backlight for the litophane. The design can be seen at the design folder. I sent this design to the acrylic laser cut service and wait it finished.
 <p align="center">
   <img  src="https://github.com/falithurrahman/litophane_bedlamp/blob/master/Design/step3.jpg">
     <img  src="https://github.com/falithurrahman/litophane_bedlamp/blob/master/Design/step4.jpg">
@@ -40,7 +40,9 @@ After configuring the images, i navigate to model tab and click download to get 
 
 Now i already have the STL file i want to print. Next step is to configure the STL file on the 3Dprint software. I used Ultimaker Cura that can be downloaded [here](https://ultimaker.com/software/ultimaker-cura) and Creality Ender 3 as the 3D printer. With Ultimaker Cura, i can convert the STL file to GCode, the format that can be read by 3D printer. After i got the GCode, next step is sent it to the 3D printer and wait it finished.
 
-While i wait the 3D print to finish, i design the base for the litophane. The design can be seen at the design folder. The base is made from acrylic which is cut by laser service. I also bought 5W AC warm light bulb as the backlight for the litophane. And the last step after i got all parts ready is to assemble them. I stick the litophane with the acrylic with glue. The light bulb is mounted at the center of the base and add the cable to power source. You can see the complete result at result folder of this repository.
+#### 2. Assembling
+And the last step after i got all parts ready is to assemble them. I stick the litophane with the acrylic with glue. The light bulb is mounted at the center of the base and add the cable to power source. You can see the complete result at result folder of this repository.
 
-
-![Picture 5](https://github.com/falithurrahman/litophane_bedlamp/blob/master/Result/88363.jpg "Picture 5")
+<p align="center">
+  <img  src="https://github.com/falithurrahman/litophane_bedlamp/blob/master/Step/5.PNG">
+</p>
