@@ -5,19 +5,21 @@ This time i made a litophane bedlamp for my loved-one that just graduated. For y
 #### 1. Modelling
 Firstly, i made a CAD design in 2D with autoCAD and modelled in 3D using Inventor. You can see the 2D model at the picture below.
 
-After finished with 2D model, i designed the 3D model and assembled them. First i assembled the bottom part of the lamp. 
-![Step 1](https://github.com/falithurrahman/litophane_bedlamp/blob/master/Design/step1.jpg "Step 1") !
-![Step 2](https://github.com/falithurrahman/litophane_bedlamp/blob/master/Design/step2.jpg "Step 2") !
+After finished with 2D model, i designed the 3D model and assembled them. First i assembled the bottom part of the lamp.
+<p align="center">
+  <img  src="https://github.com/falithurrahman/litophane_bedlamp/blob/master/Design/step1.jpg">
+    <img  src="https://github.com/falithurrahman/litophane_bedlamp/blob/master/Design/step2.jpg">
+</p>
+
 
 First step to make this bedlamp is get the picture. It can be any picture of your desire. Then i can upload the picture to "picture to 3D" online converter like [here](http://3dp.rocks/lithophane/) or [here](https://lithophanemaker.com/). For this project, i used the service provided by 3dprocks. Navigate to images tab at the website and then upload your image. 
 
 ![Picture 1](https://github.com/falithurrahman/litophane_bedlamp/blob/master/Step/1.PNG "Picture 1")
 
 Next step is to configure the setting of my litophane. Navigate to settings tab then determine model setting and image settings. *Make sure to change the image settings to positive image.*
-#### Model Settings
+
 ![Picture 2](https://github.com/falithurrahman/litophane_bedlamp/blob/master/Step/2.PNG "Picture 2") !
-#### Image Settings
-[Picture 3](https://github.com/falithurrahman/litophane_bedlamp/blob/master/Step/3.PNG "Picture 3")
+[Picture 3](https://github.com/falithurrahman/litophane_bedlamp/blob/master/Step/3.PNG "Picture 3") !
 
 After configuring the images, i navigate to model tab and click download to get the STL file of your image. ![Picture 4](https://github.com/falithurrahman/litophane_bedlamp/blob/master/Step/4.PNG "Picture 4")
 
