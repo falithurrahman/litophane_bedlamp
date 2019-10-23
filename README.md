@@ -1,14 +1,23 @@
 ### Description
 
-This time i made a litophane bedlamp for my beloved friend that just graduated. For you that don't know what litophane is, you can read the description [here](https://en.wikipedia.org/wiki/Lithophane). In short, litophane is an artwork that can only be seen clearly when we give back lit with a light source. It can be a lamp, LED or even candle. 
+This time i made a litophane bedlamp for my loved-one that just graduated. For you that don't know what litophane is, you can read the description [here](https://en.wikipedia.org/wiki/Lithophane). In short, litophane is an artwork that can only be seen clearly when we give back lit with a light source. It can be a lamp, LED or even candle. 
+
+#### 1. Modelling
+Firstly, i made a CAD design in 2D with autoCAD and modelled in 3D using Inventor. You can see the 2D model at the picture below.
+
+After finished with 2D model, i designed the 3D model and assembled them. First i assembled the bottom part of the lamp. 
+![Step 1](https://github.com/falithurrahman/litophane_bedlamp/blob/master/Design/step1.jpg "Step 1") !
+![Step 2](https://github.com/falithurrahman/litophane_bedlamp/blob/master/Design/step2.jpg "Step 2") !
 
 First step to make this bedlamp is get the picture. It can be any picture of your desire. Then i can upload the picture to "picture to 3D" online converter like [here](http://3dp.rocks/lithophane/) or [here](https://lithophanemaker.com/). For this project, i used the service provided by 3dprocks. Navigate to images tab at the website and then upload your image. 
 
 ![Picture 1](https://github.com/falithurrahman/litophane_bedlamp/blob/master/Step/1.PNG "Picture 1")
 
 Next step is to configure the setting of my litophane. Navigate to settings tab then determine model setting and image settings. *Make sure to change the image settings to positive image.*
-
-![Picture 2](https://github.com/falithurrahman/litophane_bedlamp/blob/master/Step/2.PNG "Picture 2") ![Picture 3](https://github.com/falithurrahman/litophane_bedlamp/blob/master/Step/3.PNG "Picture 3")
+#### Model Settings
+![Picture 2](https://github.com/falithurrahman/litophane_bedlamp/blob/master/Step/2.PNG "Picture 2") !
+#### Image Settings
+[Picture 3](https://github.com/falithurrahman/litophane_bedlamp/blob/master/Step/3.PNG "Picture 3")
 
 After configuring the images, i navigate to model tab and click download to get the STL file of your image. ![Picture 4](https://github.com/falithurrahman/litophane_bedlamp/blob/master/Step/4.PNG "Picture 4")
 
